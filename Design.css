@@ -275,12 +275,10 @@ margin:10px;*/
 
 @media only screen and (max-width: 600px){
     #home {
-        height: 820px;
+        height: 100vh;
     }
 
-    .headings {
-        font-size: 107rem;
-    }
+    
     /*About*/
     .pic {
         display: flex;
