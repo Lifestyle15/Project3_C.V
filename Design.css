@@ -246,25 +246,25 @@ margin:10px;*/
     justify-content: center;
 }
 
-    .icons .icon-item {
-        padding: 10px;
-    }
+.icons .icon-item {
+    padding: 10px;
+}
 
-        .icons .icon-item .facebook {
-            color: #4267B2;
-        }
+.icons .icon-item .facebook {
+    color: #4267B2;
+}
 
-        .icons .icon-item .linkedin {
-            color: #0072b1;
-        }
+.icons .icon-item .linkedin {
+    color: #0072b1;
+}
 
-        .icons .icon-item .whatsapp {
-            color: #25D366;
-        }
+.icons .icon-item .whatsapp {
+    color: #25D366;
+}
 
-        .icons .icon-item .email {
-            color: #EA4335;
-        }
+.icons .icon-item .email {
+    color: #EA4335;
+}
 
 .copy-right {
     position: absolute;
@@ -273,7 +273,7 @@ margin:10px;*/
     color: white;
 }
 
-@media only screen and (max-width: 600px){
+@media screen and (min-width: 600px){
     #home {
         height: 820px;
     }
