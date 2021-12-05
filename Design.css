@@ -105,7 +105,7 @@
     height: 100vh;
 }
 
-#pic {
+.pic {
     display: flex;
     height: 90%;
     justify-content: center;
@@ -282,7 +282,7 @@ margin:10px;*/
         font-size: 107rem;
     }
     /*About*/
-    #pic {
+    .pic {
         display: flex;
         height: 90%;  
         justify-content: center;
